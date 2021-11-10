@@ -1,8 +1,8 @@
 {
   "name": "@ho-cli/cli",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "ho-cli",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "bin": {
     "ho-cli": "./bin/ts-cli.js"
   },
@@ -15,7 +15,8 @@
     "prettier:comment": "自动格式化 src 目录下的所有 .ts 文件",
     "prettier": "prettier --write \"src/**/*.ts\"",
     "build:comment": "构建",
-    "build": "npm run eslint && npm run prettier && rm -rf lib && tsc --build"
+    "build": "npm run eslint && npm run prettier && rm -rf lib && tsc --build",
+    "publish":"npm publish --access public"
   },
   "keywords": [],
   "author": "",
