@@ -1,5 +1,5 @@
 {
-  "name": "ho-cli",
+  "name": "@ho-cli/cli",
   "version": "1.0.0",
   "description": "ho-cli",
   "main": "index.js",
