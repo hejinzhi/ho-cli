@@ -53,16 +53,23 @@ export async function selectFeature(): Promise<Template> {
           },
         },
         {
-          name: 'vue3 vite typescript element 后端管理模板',
+          name: 'vue3 vite typescript element 后台管理系统模板',
           value: {
             url: 'github:hejinzhi/vue3-ts-vite-element-template',
             type: TemplateType.PROJECT,
           },
         },
         {
-          name: 'vue2 element 后端管理模板',
+          name: 'vue2 element 后台管理系统模板',
           value: {
             url: 'github:hejinzhi/vue2-element-admin-template',
+            type: TemplateType.PROJECT,
+          },
+        },
+        {
+          name: 'nestjs 服务端模板',
+          value: {
+            url: 'github:hejinzhi/nest-server-template',
             type: TemplateType.PROJECT,
           },
         },
