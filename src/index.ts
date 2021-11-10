@@ -1,5 +1,5 @@
 import { program } from 'commander';
-import {create} from './command/create'
+import { create } from './command/create';
 
 // ts-cli -v、ts-cli --version
 // 临时禁用规则，保证这里可以通过 require 方法获取 package.json 中的版本号
