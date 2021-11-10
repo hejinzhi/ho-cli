@@ -235,11 +235,6 @@
   "resolved" "https://registry.nlark.com/ansi-regex/download/ansi-regex-5.0.1.tgz?cache=0&sync_timestamp=1631634988487&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fansi-regex%2Fdownload%2Fansi-regex-5.0.1.tgz"
   "version" "5.0.1"
 
-"ansi-regex@^6.0.1":
-  "integrity" "sha1-MYPjj66aZdfLXlOUXNWJfQJgoGo="
-  "resolved" "https://registry.nlark.com/ansi-regex/download/ansi-regex-6.0.1.tgz?cache=0&sync_timestamp=1631634988487&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fansi-regex%2Fdownload%2Fansi-regex-6.0.1.tgz"
-  "version" "6.0.1"
-
 "ansi-styles@^3.2.1":
   "integrity" "sha1-QfuyAkPlCxK+DwS43tvwdSDOhB0="
   "resolved" "https://registry.nlark.com/ansi-styles/download/ansi-styles-3.2.1.tgz?cache=0&sync_timestamp=1618995588464&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fansi-styles%2Fdownload%2Fansi-styles-3.2.1.tgz"
@@ -323,15 +318,6 @@
     "inherits" "^2.0.4"
     "readable-stream" "^3.4.0"
 
-"bl@^5.0.0":
-  "integrity" "sha1-aSiASkHp2pA0ho4cUMqI8h9XrqI="
-  "resolved" "https://registry.npm.taobao.org/bl/download/bl-5.0.0.tgz?cache=0&sync_timestamp=1617381897308&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fbl%2Fdownload%2Fbl-5.0.0.tgz"
-  "version" "5.0.0"
-  dependencies:
-    "buffer" "^6.0.3"
-    "inherits" "^2.0.4"
-    "readable-stream" "^3.4.0"
-
 "brace-expansion@^1.1.7":
   "integrity" "sha1-PH/L9SnYcibz0vUrlm/1Jx60Qd0="
   "resolved" "https://registry.npm.taobao.org/brace-expansion/download/brace-expansion-1.1.11.tgz?cache=0&sync_timestamp=1614010713935&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fbrace-expansion%2Fdownload%2Fbrace-expansion-1.1.11.tgz"
@@ -382,14 +368,6 @@
   dependencies:
     "base64-js" "^1.3.1"
     "ieee754" "^1.1.13"
-
-"buffer@^6.0.3":
-  "integrity" "sha1-Ks5XhFnMj74qcKqo9S7mO2p0xsY="
-  "resolved" "https://registry.nlark.com/buffer/download/buffer-6.0.3.tgz"
-  "version" "6.0.3"
-  dependencies:
-    "base64-js" "^1.3.1"
-    "ieee754" "^1.2.1"
 
 "cacheable-request@^2.1.1":
   "integrity" "sha1-DYCIAbY0KtM8kd+dC0TcCbkeXD0="
@@ -473,14 +451,7 @@
   dependencies:
     "restore-cursor" "^3.1.0"
 
-"cli-cursor@^4.0.0":
-  "integrity" "sha1-POz+NzS/T+Aqg2HL3A9v4oxqV+o="
-  "resolved" "https://registry.nlark.com/cli-cursor/download/cli-cursor-4.0.0.tgz?cache=0&sync_timestamp=1629747481175&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fcli-cursor%2Fdownload%2Fcli-cursor-4.0.0.tgz"
-  "version" "4.0.0"
-  dependencies:
-    "restore-cursor" "^4.0.0"
-
-"cli-spinners@^2.5.0", "cli-spinners@^2.6.0":
+"cli-spinners@^2.5.0":
   "integrity" "sha1-rclU6+KBw3pjGb+kAebdJIj/tw0="
   "resolved" "https://registry.npmmirror.com/cli-spinners/download/cli-spinners-2.6.1.tgz?cache=0&sync_timestamp=1633109609172&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2Fcli-spinners%2Fdownload%2Fcli-spinners-2.6.1.tgz"
   "version" "2.6.1"
@@ -1265,7 +1236,7 @@
   dependencies:
     "safer-buffer" ">= 2.1.2 < 3"
 
-"ieee754@^1.1.13", "ieee754@^1.2.1":
+"ieee754@^1.1.13":
   "integrity" "sha1-jrehCmP/8l0VpXsAFYbRd9Gw01I="
   "resolved" "https://registry.nlark.com/ieee754/download/ieee754-1.2.1.tgz"
   "version" "1.2.1"
@@ -1385,11 +1356,6 @@
   "resolved" "https://registry.nlark.com/is-interactive/download/is-interactive-1.0.0.tgz"
   "version" "1.0.0"
 
-"is-interactive@^2.0.0":
-  "integrity" "sha1-QMV2FFk4JtoRAK3mBZd41ZfxbpA="
-  "resolved" "https://registry.nlark.com/is-interactive/download/is-interactive-2.0.0.tgz"
-  "version" "2.0.0"
-
 "is-natural-number@^4.0.1":
   "integrity" "sha1-q5124dtM7VHjXeDHLr7PCfc0zeg="
   "resolved" "https://registry.npm.taobao.org/is-natural-number/download/is-natural-number-4.0.1.tgz"
@@ -1439,11 +1405,6 @@
   "integrity" "sha1-PybHaoCVk7Ur+i7LVxDtJ3m1Iqc="
   "resolved" "https://registry.nlark.com/is-unicode-supported/download/is-unicode-supported-0.1.0.tgz?cache=0&sync_timestamp=1625294161966&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fis-unicode-supported%2Fdownload%2Fis-unicode-supported-0.1.0.tgz"
   "version" "0.1.0"
-
-"is-unicode-supported@^1.0.0", "is-unicode-supported@^1.1.0":
-  "integrity" "sha1-kSe3H5+oL1LKXCDpgue+wO4x7h4="
-  "resolved" "https://registry.nlark.com/is-unicode-supported/download/is-unicode-supported-1.1.0.tgz?cache=0&sync_timestamp=1625294161966&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fis-unicode-supported%2Fdownload%2Fis-unicode-supported-1.1.0.tgz"
-  "version" "1.1.0"
 
 "isarray@~1.0.0":
   "integrity" "sha1-u5NdSFgsuhaMBoNJV6VKPgcSTxE="
@@ -1577,14 +1538,6 @@
   dependencies:
     "chalk" "^4.1.0"
     "is-unicode-supported" "^0.1.0"
-
-"log-symbols@^5.0.0":
-  "integrity" "sha1-dyDTxqVsNl4fZYkWBpuhjZQQkso="
-  "resolved" "https://registry.nlark.com/log-symbols/download/log-symbols-5.0.0.tgz?cache=0&sync_timestamp=1618847128438&other_urls=https%3A%2F%2Fregistry.nlark.com%2Flog-symbols%2Fdownload%2Flog-symbols-5.0.0.tgz"
-  "version" "5.0.0"
-  dependencies:
-    "chalk" "^4.1.0"
-    "is-unicode-supported" "^1.0.0"
 
 "log-update@^4.0.0":
   "integrity" "sha1-WJ7NNSRx8qHAxXAodUOmTf0g4KE="
@@ -1763,21 +1716,6 @@
     "is-unicode-supported" "^0.1.0"
     "log-symbols" "^4.1.0"
     "strip-ansi" "^6.0.0"
-    "wcwidth" "^1.0.1"
-
-"ora@^6.0.1":
-  "integrity" "sha1-aMqp/WxIWkDW9GxQo5QPo9+Zx/M="
-  "resolved" "https://registry.nlark.com/ora/download/ora-6.0.1.tgz?cache=0&sync_timestamp=1631556430183&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fora%2Fdownload%2Fora-6.0.1.tgz"
-  "version" "6.0.1"
-  dependencies:
-    "bl" "^5.0.0"
-    "chalk" "^4.1.2"
-    "cli-cursor" "^4.0.0"
-    "cli-spinners" "^2.6.0"
-    "is-interactive" "^2.0.0"
-    "is-unicode-supported" "^1.1.0"
-    "log-symbols" "^5.0.0"
-    "strip-ansi" "^7.0.1"
     "wcwidth" "^1.0.1"
 
 "os-tmpdir@~1.0.2":
@@ -2026,14 +1964,6 @@
     "onetime" "^5.1.0"
     "signal-exit" "^3.0.2"
 
-"restore-cursor@^4.0.0":
-  "integrity" "sha1-UZVgpDGJdQlt725gnUQQDtqkzLk="
-  "resolved" "https://registry.nlark.com/restore-cursor/download/restore-cursor-4.0.0.tgz?cache=0&sync_timestamp=1629746923086&other_urls=https%3A%2F%2Fregistry.nlark.com%2Frestore-cursor%2Fdownload%2Frestore-cursor-4.0.0.tgz"
-  "version" "4.0.0"
-  dependencies:
-    "onetime" "^5.1.0"
-    "signal-exit" "^3.0.2"
-
 "reusify@^1.0.4":
   "integrity" "sha1-kNo4Kx4SbvwCFG6QhFqI2xKSXXY="
   "resolved" "https://registry.nlark.com/reusify/download/reusify-1.0.4.tgz"
@@ -2245,13 +2175,6 @@
   "version" "6.0.1"
   dependencies:
     "ansi-regex" "^5.0.1"
-
-"strip-ansi@^7.0.1":
-  "integrity" "sha1-YXQKCM42th5Q5lZT8HBg0ACXX7I="
-  "resolved" "https://registry.npmmirror.com/strip-ansi/download/strip-ansi-7.0.1.tgz"
-  "version" "7.0.1"
-  dependencies:
-    "ansi-regex" "^6.0.1"
 
 "strip-bom@^3.0.0":
   "integrity" "sha1-IzTBjpx1n3vdVv3vfprj1YjmjtM="
